@@ -38,6 +38,6 @@ a {
     display: inline-block;
 }
 
-,.list ol li ol {
+.list ol li ol {
     margin-left: 58px;
 }
